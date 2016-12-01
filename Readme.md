@@ -1,6 +1,6 @@
 # ChaCha20
 
-[![Build Status](https://travis-ci.org/tang0th/go-chacha20.svg?branch=master)](https://travis-ci.org/tang0th/go-chacha20)
+[![Build Status](https://travis-ci.org/wsddn/go-chacha20.svg?branch=master)](https://travis-ci.org/wsddn/go-chacha20)
 
 This is a go implementation of the chacha20 cipher by [djb](http://cr.yp.to). It uses the C implementation of 
 the chacha20 cipher by [Ted Krovetz](http://krovetz.net/csus/). If cgo cannot be used it falls back to a go
